@@ -17,8 +17,10 @@ Step 5: Construct the main program to read the paragraph  and perform text summa
       - Generate and print the original text.<br>
       - Generate and print the text summary using the  Text Summarization function<br>
 <H3>Program:</H3>
-```
 
+
+
+```
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize,sent_tokenize
@@ -71,7 +73,10 @@ print (input_text )
 print( " \nSummary : " )
 print(summary)
 
+
 ```
+
+
 <H3>Output</H3>
 
 ![output]()
