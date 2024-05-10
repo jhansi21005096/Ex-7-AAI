@@ -79,7 +79,7 @@ print(summary)
 
 <H3>Output</H3>
 
-![output]()
+![output](https://github.com/jhansi21005096/Ex-7-AAI/blob/main/outputtt.png)
 
 <H3>Result:</H3>
 Thus ,the program to perform the Text summarization is executed sucessfully.
